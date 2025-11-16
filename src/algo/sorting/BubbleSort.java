@@ -36,4 +36,8 @@ public class BubbleSort {
     }
 }
 
-
+/*
+* BEST CASE - O(n)
+* Avg Case - O(n^2)
+* Worst Case - O(n^2)
+* */
