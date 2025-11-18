@@ -36,4 +36,11 @@ public class SelectionSort {
 * Best Case - O(n^2)
 * Avg Case - O(n^2)
 * Worst Case - O(n^2)
+*
+*
+*Insertion Sort Applications
+* The insertion sort is used when:
+*
+* the array is has a small number of elements
+* there are only a few elements left to be sorted
 * */
